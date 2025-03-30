@@ -1,4 +1,4 @@
-# Infoaigram
+# Techgram Social Media APP
 
 ## Description
 Techgram is an innovative AI-powered social media platform designed for tech and business enthusiasts to consume and share meaningful content. Unlike traditional platforms that are diluted with unrelated posts, Techgram provides a focused and productive experience through personalized AI feeds, AI-generated blogs, Create & Share Contents, Connect with peoples and AI tool recommendations.
