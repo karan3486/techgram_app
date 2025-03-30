@@ -20,6 +20,9 @@ This report outlines the development, progress, challenges, and technical implem
 
 ![image](https://github.com/user-attachments/assets/26bebbb2-0e79-4877-9a38-616f91761cd1)
 
+![image](https://github.com/user-attachments/assets/7468399f-4b11-4177-9e5c-5936f476c090)
+
+
 ![image](https://github.com/user-attachments/assets/6011633f-4524-4502-859c-bc030694f71b)
 
 
